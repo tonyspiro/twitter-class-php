@@ -1,4 +1,4 @@
-twitter-class-php
+Twitter Class for PHP
 =================
 
 This is an easy php class to pull search results from twitter
