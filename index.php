@@ -3,12 +3,13 @@
 require_once("twitteroauth/twitteroauth.php"); //Path to twitteroauth library
 
 /*
-////////////////////////////////////
-////							////
-////		Configure!!			////
-////							////
-////////////////////////////////////
+*
+*
+*	Configure!!
+*
+*
 */
+
 $query = "\$aapl";
 $count = 100;
 
