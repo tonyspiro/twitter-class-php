@@ -13,10 +13,10 @@ require_once("twitteroauth/twitteroauth.php"); //Path to twitteroauth library
 $query = "\$aapl";
 $count = 100;
 
-define(CONSUMER_KEY, 		"");
-define(CONSUMER_SECRET, 	"");
-define(ACCESS_TOKEN, 		"");
-define(ACCESS_TOKEN_SECRET, "");
+define(CONSUMER_KEY,"");
+define(CONSUMER_SECRET,"");
+define(ACCESS_TOKEN,"");
+define(ACCESS_TOKEN_SECRET,"");
 
 
 /// Twitter Class
